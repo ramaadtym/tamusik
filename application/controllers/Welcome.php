@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Welcome extends CI_Controller {
 
-	/**
+	/** i
 	 * Index Page for this controller.
 	 *
 	 * Maps to the following URL
@@ -22,4 +22,5 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
+	 
 }
