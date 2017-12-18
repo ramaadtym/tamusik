@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$route['default_controller'] = 'regis/daftar';
+$route['default_controller'] = 'auth';
+//$route['auth/daftar'] = 'auth/daftar';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
