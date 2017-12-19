@@ -1,0 +1,11 @@
+class = "m-b-lg"
+margin-top: -20px;
+
+id = "footer"
+margin-top: - 30px
+
+class ="container aside-xl"
+margin-top: -40px
+
+class = "text-muted text-center"
+margin-top: 10px

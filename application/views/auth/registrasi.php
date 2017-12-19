@@ -19,9 +19,9 @@
             <option value="pendengar">Pendengar</option>
           </select>
         <label for="inputEmail" class="">Username</label>
-        <input type="text" id="" name="username" class="form-control" placeholder="Username" autofocus="">
+        <input type="text" id="" name="user" class="form-control" placeholder="Username" autofocus="">
         <label for="inputPassword" class="">Password</label>
-        <input type="password" id="" name="pwd" class="form-control" placeholder="Password" required="">
+        <input type="password" id="" name="pass" class="form-control" placeholder="Password" required="">
         <label for="inputPassword" class="">Name</label>
         <input type="text" id="" name="name" class="form-control" placeholder="name" required="">
         <label for="inputPassword" class="">Address</label>

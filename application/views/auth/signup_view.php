@@ -21,7 +21,7 @@
 </head>
 <body class="bg-info dker">
   <section id="content" class="m-t-lg wrapper-md animated fadeInDown">
-    <div class="container aside-xl">
+    <div class="container aside-xl" style="margin-top: -40px">
       <a class="navbar-brand block" href="index.html"><span class="h1 font-bold">Musik</span></a>
       <section class="m-b-lg">
         <header class="wrapper text-center">
@@ -56,14 +56,14 @@
           </div>
           <button type="submit" class="btn btn-lg btn-warning lt b-white b-2x btn-block btn-rounded"><i class="icon-arrow-right pull-right"></i><span class="m-r-n-lg">Sign up</span></button>
           <div class="line line-dashed"></div>
-          <p class="text-muted text-center"><small>Already have an account?</small></p>
+          <p class="text-muted text-center" style ="margin-top: 10px"><small>Already have an account?</small></p>
           <a href="<?php echo site_url('signin') ?>" class="btn btn-lg btn-info btn-block btn-rounded">Sign in</a>
         </form>
       </section>
     </div>
   </section>
   <!-- footer -->
-  <footer id="footer">
+  <footer id="footer" style="margin-top:-30px";>
     <div class="text-center padder clearfix">
       <p>
         <small>Web app framework base on Bootstrap<br>&copy; 2014</small>

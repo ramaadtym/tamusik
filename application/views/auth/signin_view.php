@@ -29,10 +29,10 @@
         </header>
         <form action="hasil_login.php" method="POST">
           <div class="form-group">
-            <input type="text" placeholder="Username" class="form-control rounded input-lg text-center no-border" name="username">
+            <input type="text" placeholder="Username" class="form-control rounded input-lg text-center no-border" name="user">
           </div>
           <div class="form-group">
-             <input type="password" placeholder="Password" class="form-control rounded input-lg text-center no-border" name="password">
+             <input type="password" placeholder="Password" class="form-control rounded input-lg text-center no-border" name="pass">
           </div>
           <button type="submit" class="btn btn-lg btn-warning lt b-white b-2x btn-block btn-rounded"><i class="icon-arrow-right pull-right"></i><span class="m-r-n-lg">Sign in</span></button>
           <!-- <div class="text-center m-t m-b"><a href="#"><small>Forgot password?</small></a></div> -->
